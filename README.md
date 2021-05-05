@@ -1,2 +1,2 @@
 # Test
-Practice branching strategy
+To Practice branching strategy
